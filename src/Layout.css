@@ -1,0 +1,32 @@
+.pagelayout{
+    height: 100%;
+}
+.pageheader{
+    background: linear-gradient(120deg, #00e4d0, #5983e8);
+    height:63px;
+    padding:0;
+}
+
+.logo{
+    width: 200px;
+    height: 100%;
+    background: #fff;
+    line-height: 63px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.sidebar{
+    background:#fff;
+}
+
+.mainmenu{
+    height:100%;
+    width: 100%;
+    overflow: auto;
+}
+
+.ant-menu-vertical .ant-menu-item{
+    font-size:16px;
+}
